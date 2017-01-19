@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Teclado.iml" filepath="$PROJECT_DIR$/Teclado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemploGestures/ejemploGestures.iml" filepath="$PROJECT_DIR$/ejemploGestures/ejemploGestures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemploPantallaTactil/ejemploPantallaTactil.iml" filepath="$PROJECT_DIR$/ejemploPantallaTactil/ejemploPantallaTactil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemploPantallaTactilMulti/ejemploPantallaTactilMulti.iml" filepath="$PROJECT_DIR$/ejemploPantallaTactilMulti/ejemploPantallaTactilMulti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejemploTeclado/ejemploTeclado.iml" filepath="$PROJECT_DIR$/ejemploTeclado/ejemploTeclado.iml" />
+    </modules>
+  </component>
+</project>

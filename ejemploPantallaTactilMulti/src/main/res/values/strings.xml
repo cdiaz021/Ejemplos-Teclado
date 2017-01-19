@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EjemploPantallaTactil</string>
+    <string name="textView1_text">Pulsa sobre esta vista</string>
+    <string name="action_settings">Settings</string>
+    <string name="textView2_text">Pulsaciones:</string>
+
+</resources>
